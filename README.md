@@ -7,15 +7,16 @@ This Python script scrapes job listings from Wuzzuf.net and stores them in a pan
 ## Features
 
 Extracts job details from 644 pages, resulting in a dataset of 17745 rows × 7 columns.
+
 Fetches information including:
-Job Name
-Company Name
-Location
-Job Type
-Experience Level
-Years of Experience
-Skills
-Stores the data in a pandas DataFrame for easy analysis and manipulation.
+-Job Name
+-Company Name
+-Location
+-Job Type
+-Experience Level
+-Years of Experience
+-Skills
+-Stores the data in a pandas DataFrame for easy analysis and manipulation.
 
 ## Libraries Used
 - requests library
