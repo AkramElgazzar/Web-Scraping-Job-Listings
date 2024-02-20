@@ -24,11 +24,11 @@ Stores the data in a pandas DataFrame for easy analysis and manipulation.
 
 ## Usage
 
-1- Clone this repository:  " git clone https://github.com/AkramElgazzar/Web-Scraping-Job-Listings.git "
-2- Install the required libraries: pip install requests beautifulsoup4 pandas
-3- Run the script: python wuzzuf_job_scraper.py
-4- The progress will be printed every 30 iterations.
-5- Once scraping is finished, the extracted data will be saved in a DataFrame.
+- Clone this repository:  " git clone https://github.com/AkramElgazzar/Web-Scraping-Job-Listings.git "
+- Install the required libraries: pip install requests beautifulsoup4 pandas
+- Run the script: python wuzzuf_job_scraper.py
+- The progress will be printed every 30 iterations.
+- Once scraping is finished, the extracted data will be saved in a DataFrame.
 
 
 ## Dataset
